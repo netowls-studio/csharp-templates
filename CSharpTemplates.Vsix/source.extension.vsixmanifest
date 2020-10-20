@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="netowls-studio.templates.csharp.69454750-3e8e-4ca3-a9a4-6aa5bc957f62" Version="1.0" Language="zh-Hans" Publisher="Yucai Wang" />
+        <Identity Id="netowls-studio.templates.csharp.69454750-3e8e-4ca3-a9a4-6aa5bc957f62" Version="1.0" Language="zh-Hans" Publisher="NetowlsStudio" />
         <DisplayName>NetowlsStudio.Templates.CSharp</DisplayName>
         <Description xml:space="preserve">C# item template provided by NetowlsStudio.</Description>
     </Metadata>
